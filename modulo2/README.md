@@ -1,4 +1,4 @@
-1 - oque vc aprendeu no módulo 1 
+1 - oque você aprendeu no módulo 1? 
 
 • Lógica de Programação: 
 
@@ -18,15 +18,15 @@
 
 • Carreira:
 
-1) Oque é Likedin.
+1) Oque é Likedin?.
 2) Criando e conhecendo o Likedin.
 3) Personalizando o Likedin.
 4) Estratégias para ter um likedin de sucesso.
 5) Soft-Skils
 
-2 - Oque vc vai aprender no módulo 2
+2 - Oque vc vai aprender no módulo 2?
 
-• Aprofundamento em lógica de programação:
+• Lógica de programação:
 
 1) Funções.
 2) Tipos de dados.
@@ -41,3 +41,17 @@
 
 
 3 - oque você aprendeu no módulo 2
+
+• Lógica de programação:
+
+1) Funções.
+2) Tipos de Dados.
+3) Tipos Utilitarios.
+4) Métodos de String.
+5) Métodos de Arrays.
+
+• Carreira:
+
+1) Metodologias Ageis.
+2) Consegui por em prática a Gestão de Tempo.
+3) Tecnologia e diversidade, a tecnologia desenvolve soluções para que ninguem fique de fora.
